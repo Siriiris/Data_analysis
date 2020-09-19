@@ -1,2 +1,2 @@
 # Data_analysis
-This linear algebra project
+This is a data analysis for linear algebra project.
